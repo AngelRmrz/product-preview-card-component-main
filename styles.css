@@ -121,7 +121,7 @@
 @media (min-width: 800px) {
 	.card {
 		flex-direction: row;
-		height: 50%;
+		height: 60%;
 		width: auto;
 	}
 	.card__image {
